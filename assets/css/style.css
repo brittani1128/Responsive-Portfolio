@@ -215,8 +215,8 @@ img.image {
     }
 
     .column {
-        flex: 50%;
-        max-width: 50%;
+        flex: 33.33%;
+        max-width: 33%;
         padding: 10 4px;
     }
 }
